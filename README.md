@@ -1,1 +1,1 @@
-# MCP Crash Course
+# MCP Crash Course by Web Dev Simplified
